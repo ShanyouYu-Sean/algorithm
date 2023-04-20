@@ -6,10 +6,11 @@ package algorithm.longest;
  */
 public class LongestIncreasingSubsequence {
 
-    /**
-     * 最长递增子序列
-     * dp[i] 表示以 nums[i] 结尾的最长递增子序列的长度
-     */
+    // 最长递增子序列
+    // dp[i] 表示以 nums[i] 结尾的最长递增子序列的长度
+    // 从小到大计算dp数组的值，
+    // 在计算dp[i]之前，我们已经计算出 dp[0…i−1]的值，则状态转移方程为：
+    //dp[i]=max(dp[j])+1,其中0≤j<i且num[j]<num[i]
     public int lengthOfLIS(int[] nums) {
         if (nums.length == 0){
             return 0;
