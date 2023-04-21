@@ -1,6 +1,6 @@
 package algorithm.list;
 
-import fucktencent.algorithm.entity.ListNode;
+import algorithm.entity.ListNode;
 
 /**
  * 删除链表的倒数第n个节点并返回链表的头指针

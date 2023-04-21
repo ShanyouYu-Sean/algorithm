@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-import fucktencent.algorithm.entity.TreeNode;
+import algorithm.entity.TreeNode;
 
 /**
  * 二叉树的右视图

@@ -2,7 +2,7 @@ package algorithm.list;
 
 import java.util.Stack;
 
-import fucktencent.algorithm.entity.ListNode;
+import algorithm.entity.ListNode;
 
 public class AddToList {
 	// 链表中的数相加

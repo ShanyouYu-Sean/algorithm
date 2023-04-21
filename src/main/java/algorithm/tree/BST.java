@@ -1,6 +1,6 @@
 package algorithm.tree;
 
-import fucktencent.algorithm.entity.TreeNode;
+import algorithm.entity.TreeNode;
 
 /**
  * 删除二叉搜索树的节点

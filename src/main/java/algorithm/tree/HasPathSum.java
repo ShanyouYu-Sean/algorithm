@@ -4,7 +4,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 import java.util.List;
 
-import fucktencent.algorithm.entity.TreeNode;
+import algorithm.entity.TreeNode;
 
 public class HasPathSum {
 

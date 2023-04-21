@@ -3,7 +3,7 @@ package algorithm.tree;
 import java.util.HashMap;
 import java.util.Map;
 
-import fucktencent.algorithm.entity.TreeNode;
+import algorithm.entity.TreeNode;
 
 /**
  * 根据前序遍历和中序遍历构造一颗二叉树

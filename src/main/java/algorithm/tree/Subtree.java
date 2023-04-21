@@ -1,6 +1,6 @@
 package algorithm.tree;
 
-import fucktencent.algorithm.entity.TreeNode;
+import algorithm.entity.TreeNode;
 
 /**
  * 判断一棵树是否是另一棵树的子树

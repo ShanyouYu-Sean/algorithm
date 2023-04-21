@@ -1,6 +1,6 @@
 package algorithm.list;
 
-import fucktencent.algorithm.entity.ListNode;
+import algorithm.entity.ListNode;
 
 /**
  * 找到两个链表的第一个公共节点

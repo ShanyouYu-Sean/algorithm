@@ -1,7 +1,7 @@
 package algorithm.list;
 
 
-import fucktencent.algorithm.entity.ListNode;
+import algorithm.entity.ListNode;
 
 /**
  * K个一组翻转链表的通用实现，快慢指针-链表反转。

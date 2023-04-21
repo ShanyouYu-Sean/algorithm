@@ -1,6 +1,6 @@
 package algorithm.list;
 
-import fucktencent.algorithm.entity.ListNode;
+import algorithm.entity.ListNode;
 
 /**
  * 链表 m 到 n 之间反转

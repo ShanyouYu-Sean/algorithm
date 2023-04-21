@@ -1,6 +1,6 @@
 package algorithm.list;
 
-import fucktencent.algorithm.entity.ListNode;
+import algorithm.entity.ListNode;
 
 /**
  * 两两交换链表中的节点

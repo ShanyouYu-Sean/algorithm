@@ -1,6 +1,6 @@
 package algorithm.tree;
 
-import fucktencent.algorithm.entity.TreeNode;
+import algorithm.entity.TreeNode;
 
 /**
  * 翻转二叉树

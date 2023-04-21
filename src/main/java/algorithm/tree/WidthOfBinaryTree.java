@@ -3,7 +3,7 @@ package algorithm.tree;
 import java.util.Deque;
 import java.util.LinkedList;
 
-import fucktencent.algorithm.entity.TreeNode;
+import algorithm.entity.TreeNode;
 
 public class WidthOfBinaryTree {
 
